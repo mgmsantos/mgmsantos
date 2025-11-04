@@ -1,9 +1,11 @@
 ## Olá! Eu sou o Miguel Gabriel, Engenheiro Agrônomo 🌱 e Analista de Dados 🎲
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mig-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
+          
   ##
  
 <div> 
