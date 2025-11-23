@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Miguel Gabriel!
 
-### Engenheiro Agrônomo 🌱, Mestre em Agronomia e Analista de Dados 🎲
+### ***Engenheiro Agrônomo, Mestre em Agronomia e Analista de Dados***
 
 Minha trajetória profissional é construída sobre a junção entre a ciência agronômica e a análise de dados, permitindo a mim obter conhecimento para lidar com desafios do campo, mas também possuir as ferramentas para extrair insights e informações estratégicas.
 
