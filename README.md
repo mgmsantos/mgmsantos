@@ -6,8 +6,6 @@ Minha trajetória profissional é construída sobre a junção entre a ciência 
 
 Minha experiência prática abrange desde a consultoria e desenvolvimento de projetos agropecuários até a experimentação e pesquisa científica avançada. Sou proficiente em ferramentas de análises de dados, utilizando um stack técnico que inclui SQL, Excel, Power BI, R, Python e QGIS. Minha especialidade consiste em aplicar essas competências para coletar, processar e modelar dados de campo, transformar dado brutos em informações robustas para a tomada de decisão em projetos agronômicos e de business intelligence
 
----
-
 ## Conecte-se Comigo
 
 <div> 
@@ -15,8 +13,6 @@ Minha experiência prática abrange desde a consultoria e desenvolvimento de pro
   <a href="https://www.linkedin.com/in/miguelgms31/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/2943203054995050" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%230077B5?style=for-the-badge&logo=google-scholar&logoColor=white" target="_blank"></a>
 </div>
-
----
 
 ## Stack Técnico e Ferramentas
 
