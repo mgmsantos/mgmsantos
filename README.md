@@ -1,20 +1,16 @@
-# Miguel Gabriel: Engenheiro Agrônomo 🌱 & Analista de Dados 📊
+## Olá! Eu sou o Miguel Gabriel!
 
-> Engenheiro Agrônomo | Analista de Dados | Mestre em Agronomia
+### Engenheiro Agrônomo 🌱, Mestre em Agronomia e Analista de Dados 🎲
 
----
+Minha trajetória profissional é construída sobre a junção entre a ciência agronômica e a análise de dados, permitindo a mim obter conhecimento para lidar com desafios do campo, mas também possuir as ferramentas para extrair insights e informações estratégicas.
 
-## 🎯 Perfil Profissional
-
-Minha trajetória profissional é construída sobre a junção entre a **ciência agronômica** e a **análise de dados**, permitindo a mim obter conhecimento para lidar com desafios do campo, mas também possuir as ferramentas para extrair **insights** e informações estratégicas.
-
-Minha experiência prática abrange desde a consultoria e desenvolvimento de projetos agropecuários até a experimentação e pesquisa científica avançada. Sou proficiente em **ferramentas de análises de dados**, utilizando um stack técnico que inclui **SQL, Excel, Power BI, R, Python e QGIS**. Minha especialidade consiste em aplicar essas competências para coletar, processar e modelar dados de campo, transformar **dados brutos em informações robustas para a tomada de decisão** em projetos agronômicos e de business intelligence.
+Minha experiência prática abrange desde a consultoria e desenvolvimento de projetos agropecuários até a experimentação e pesquisa científica avançada. Sou proficiente em ferramentas de análises de dados, utilizando um stack técnico que inclui SQL, Excel, Power BI, R, Python e QGIS. Minha especialidade consiste em aplicar essas competências para coletar, processar e modelar dados de campo, transformar dado brutos em informações robustas para a tomada de decisão em projetos agronômicos e de business intelligence
 
 ---
 
-## 📞 Conecte-se Comigo
+## Conecte-se Comigo
 
-<div>
+<div> 
   <a href="mailto:miguel.gms31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguelgms31/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/2943203054995050" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%230077B5?style=for-the-badge&logo=google-scholar&logoColor=white" target="_blank"></a>
@@ -22,7 +18,7 @@ Minha experiência prática abrange desde a consultoria e desenvolvimento de pro
 
 ---
 
-## 🛠️ Stack Técnico & Ferramentas
+## Stack Técnico e Ferramentas
 
 <div>
   <img align="center" alt="Excel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png?20190925171014"></a>
