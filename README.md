@@ -13,6 +13,7 @@ Minha experiência prática abrange desde a consultoria e desenvolvimento de pro
 
 
 ## Linguagens e Ferramentas
+
 <div>
   <img align="center" alt="Excel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png?20190925171014">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
