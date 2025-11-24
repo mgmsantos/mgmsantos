@@ -1,4 +1,4 @@
-## Olá! Eu sou o Miguel Gabriel!
+## Olá! Eu sou o Miguel!
 
 ### Engenheiro Agrônomo, Mestre em Agronomia e Analista de Dados 🌱🌾📊
 
