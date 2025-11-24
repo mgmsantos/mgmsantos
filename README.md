@@ -2,9 +2,9 @@
 
 ### Engenheiro Agrônomo, Mestre em Agronomia e Analista de Dados 🌱🌾📊
 
-Minha trajetória profissional é construída sobre a junção entre a ciência agronômica e a análise de dados, permitindo a mim obter conhecimento para lidar com desafios do campo, mas também possuir as ferramentas para extrair insights e informações estratégicas.
+A minha trajetória profissional é construída sobre a junção entre a ciência agronômica e a análise de dados, permitindo a mim obter conhecimento para lidar com desafios do campo, mas também possuir as ferramentas para extrair insights e informações estratégicas.
 
-Minha experiência prática abrange desde a consultoria e desenvolvimento de projetos agropecuários até a experimentação e pesquisa científica avançada. Sou proficiente em ferramentas de análises de dados, utilizando um stack técnico que inclui Excel, SQL, Power BI, R, Python e QGIS. Minha especialidade consiste em aplicar essas competências para coletar, processar e modelar dados de campo, transformar dado brutos em informações robustas para a tomada de decisão em projetos agronômicos e de business intelligence
+Possuo experiência prática que abrange desde a consultoria, assistência técnica e desenvolvimento de projetos agropecuários até à experimentação e pesquisa científica avançada. Sou proficiente em ferramentas de análises de dados, utilizando um stack técnico que inclui Excel, SQL, Power BI, R, Python e QGIS. Minha especialidade consiste em aplicar essas competências para coletar, processar e modelar dados de campo, transformar dado brutos em informações e insights para a tomada de decisão em projetos agronômicos e de business intelligence.
 
 ### Stack Técnico e Ferramentas
 
