@@ -15,6 +15,7 @@ Possuo experiência prática que abrange desde a consultoria, assistência técn
   <img align="center" alt="R" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/RStudio.svg">
   <img align="center" alt="Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20250701090410">
   <img align="center" alt="QGIS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/256px-QGIS_logo_new.svg.png?20180406083750">
+  <img align="center" alt="GIT" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
 </div>
 
 ### Conecte-se Comigo
