@@ -9,13 +9,13 @@ Possuo experiência prática que abrange desde a consultoria, assistência técn
 ### Stack Técnico e Ferramentas
 
 <div>
-  <img align="center" alt="Excel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png?20190925171014">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="PBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532">
-  <img align="center" alt="R" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/RStudio.svg">
-  <img align="center" alt="Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20250701090410">
-  <img align="center" alt="QGIS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/256px-QGIS_logo_new.svg.png?20180406083750">
-  <img align="center" alt="GIT" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
+  <img style="margin-right: 15px; border-radius: 5px;" align="center" alt="Excel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png?20190925171014">
+  <img style="margin-right: 15px; border-radius: 5px;" align="center" alt="SQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img style="margin-right: 15px; border-radius: 5px;" align="center" alt="PBI" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532">
+  <img style="margin-right: 15px; border-radius: 5px;" align="center" alt="R" height="30" width="30" src="https://icon.icepanel.io/Technology/svg/RStudio.svg">
+  <img style="margin-right: 15px; border-radius: 5px;" align="center" alt="Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20250701090410">
+  <img style="margin-right: 15px; border-radius: 5px;" align="center" alt="QGIS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/256px-QGIS_logo_new.svg.png?20180406083750">
+  <img style="border-radius: 5px;" align="center" alt="GIT" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
 </div>
 
 ### Conecte-se Comigo
